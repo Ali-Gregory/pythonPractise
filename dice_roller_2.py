@@ -8,5 +8,3 @@ def dice_roller(d1,d2):
     return total
 
 dice_roller(1,20)
-
-1
